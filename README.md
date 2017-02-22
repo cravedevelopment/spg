@@ -1,0 +1,2 @@
+# spg
+SPG EventStore POC
