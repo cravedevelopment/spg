@@ -1,0 +1,10 @@
+version: '2'
+
+services:
+  spg.api:
+    image: spg.api
+    environment:
+      
+    build:
+      context: ./SPG.Api
+      dockerfile: Dockerfile

@@ -1,0 +1,14 @@
+D:\workspace\spg\event_store_poc\SPG\SPG.Model\bin\Debug\netcoreapp1.0\SPG.Model.deps.json
+D:\workspace\spg\event_store_poc\SPG\SPG.Model\bin\Debug\netcoreapp1.0\SPG.Model.dll
+D:\workspace\spg\event_store_poc\SPG\SPG.Model\bin\Debug\netcoreapp1.0\SPG.Model.pdb
+D:\workspace\spg\event_store_poc\SPG\SPG.Model\obj\Debug\netcoreapp1.0\SPG.Model.AssemblyInfo.cs
+D:\workspace\spg\event_store_poc\SPG\SPG.Model\obj\Debug\netcoreapp1.0\SPG.Model.dll
+D:\workspace\spg\event_store_poc\SPG\SPG.Model\obj\Debug\netcoreapp1.0\SPG.Model.pdb
+D:\workspace\spg\event_store_poc\SPG\SPG.Model\obj\Debug\netcoreapp1.0\SPG.Model.csprojResolveAssemblyReference.cache
+D:\workspace\github\spg\SPG\SPG.Model\bin\Debug\netcoreapp1.0\SPG.Model.deps.json
+D:\workspace\github\spg\SPG\SPG.Model\bin\Debug\netcoreapp1.0\SPG.Model.dll
+D:\workspace\github\spg\SPG\SPG.Model\bin\Debug\netcoreapp1.0\SPG.Model.pdb
+D:\workspace\github\spg\SPG\SPG.Model\obj\Debug\netcoreapp1.0\SPG.Model.csprojResolveAssemblyReference.cache
+D:\workspace\github\spg\SPG\SPG.Model\obj\Debug\netcoreapp1.0\SPG.Model.AssemblyInfo.cs
+D:\workspace\github\spg\SPG\SPG.Model\obj\Debug\netcoreapp1.0\SPG.Model.dll
+D:\workspace\github\spg\SPG\SPG.Model\obj\Debug\netcoreapp1.0\SPG.Model.pdb

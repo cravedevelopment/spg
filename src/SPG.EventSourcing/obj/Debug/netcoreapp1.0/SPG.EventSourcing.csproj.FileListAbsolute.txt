@@ -1,0 +1,6 @@
+D:\workspace\spg\event_store_poc\SPG\SPG.EventSourcing\bin\Debug\netcoreapp1.0\SPG.EventSourcing.deps.json
+D:\workspace\spg\event_store_poc\SPG\SPG.EventSourcing\bin\Debug\netcoreapp1.0\SPG.EventSourcing.dll
+D:\workspace\spg\event_store_poc\SPG\SPG.EventSourcing\bin\Debug\netcoreapp1.0\SPG.EventSourcing.pdb
+D:\workspace\spg\event_store_poc\SPG\SPG.EventSourcing\obj\Debug\netcoreapp1.0\SPG.EventSourcing.AssemblyInfo.cs
+D:\workspace\spg\event_store_poc\SPG\SPG.EventSourcing\obj\Debug\netcoreapp1.0\SPG.EventSourcing.dll
+D:\workspace\spg\event_store_poc\SPG\SPG.EventSourcing\obj\Debug\netcoreapp1.0\SPG.EventSourcing.pdb

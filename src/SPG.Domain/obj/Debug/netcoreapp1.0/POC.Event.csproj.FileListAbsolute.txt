@@ -1,0 +1,7 @@
+D:\workspace\spg\POC\POC.Event\bin\Debug\netcoreapp1.0\POC.Event.deps.json
+D:\workspace\spg\POC\POC.Event\bin\Debug\netcoreapp1.0\POC.Event.dll
+D:\workspace\spg\POC\POC.Event\bin\Debug\netcoreapp1.0\POC.Event.pdb
+D:\workspace\spg\POC\POC.Event\obj\Debug\netcoreapp1.0\POC.Event.AssemblyInfo.cs
+D:\workspace\spg\POC\POC.Event\obj\Debug\netcoreapp1.0\POC.Event.dll
+D:\workspace\spg\POC\POC.Event\obj\Debug\netcoreapp1.0\POC.Event.pdb
+D:\workspace\spg\POC\POC.Event\obj\Debug\netcoreapp1.0\POC.Event.csprojResolveAssemblyReference.cache

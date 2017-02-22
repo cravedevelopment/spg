@@ -1,0 +1,11 @@
+D:\workspace\spg\POC\POC.Data\bin\Debug\netcoreapp1.0\POC.Data.deps.json
+D:\workspace\spg\POC\POC.Data\bin\Debug\netcoreapp1.0\POC.Data.dll
+D:\workspace\spg\POC\POC.Data\bin\Debug\netcoreapp1.0\POC.Data.pdb
+D:\workspace\spg\POC\POC.Data\obj\Debug\netcoreapp1.0\POC.Data.AssemblyInfo.cs
+D:\workspace\spg\POC\POC.Data\obj\Debug\netcoreapp1.0\POC.Data.dll
+D:\workspace\spg\POC\POC.Data\obj\Debug\netcoreapp1.0\POC.Data.pdb
+D:\workspace\spg\POC\POC.Data\obj\Debug\netcoreapp1.0\POC.Data.csprojResolveAssemblyReference.cache
+D:\workspace\spg\POC\POC.Data\bin\Debug\netcoreapp1.0\POC.Model.dll
+D:\workspace\spg\POC\POC.Data\bin\Debug\netcoreapp1.0\POC.Model.pdb
+D:\workspace\spg\POC\POC.Data\bin\Debug\netcoreapp1.0\Newtonsoft.Json.dll
+D:\workspace\spg\POC\POC.Data\bin\Debug\netcoreapp1.0\Newtonsoft.Json.xml

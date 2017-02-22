@@ -1,0 +1,9 @@
+D:\workspace\spg\event_store_poc\SPG\SPG.Events\bin\Debug\netcoreapp1.0\SPG.Events.deps.json
+D:\workspace\spg\event_store_poc\SPG\SPG.Events\bin\Debug\netcoreapp1.0\SPG.Events.dll
+D:\workspace\spg\event_store_poc\SPG\SPG.Events\bin\Debug\netcoreapp1.0\SPG.Events.pdb
+D:\workspace\spg\event_store_poc\SPG\SPG.Events\obj\Debug\netcoreapp1.0\SPG.Events.AssemblyInfo.cs
+D:\workspace\spg\event_store_poc\SPG\SPG.Events\obj\Debug\netcoreapp1.0\SPG.Events.dll
+D:\workspace\spg\event_store_poc\SPG\SPG.Events\obj\Debug\netcoreapp1.0\SPG.Events.pdb
+D:\workspace\spg\event_store_poc\SPG\SPG.Events\obj\Debug\netcoreapp1.0\SPG.Events.csprojResolveAssemblyReference.cache
+D:\workspace\spg\event_store_poc\SPG\SPG.Events\bin\Debug\netcoreapp1.0\SPG.Data.dll
+D:\workspace\spg\event_store_poc\SPG\SPG.Events\bin\Debug\netcoreapp1.0\SPG.Data.pdb

@@ -1,0 +1,16 @@
+D:\workspace\spg\POC\POC.EventGenerator\bin\Release\netcoreapp1.0\POC.EventGenerator.deps.json
+D:\workspace\spg\POC\POC.EventGenerator\bin\Release\netcoreapp1.0\POC.EventGenerator.runtimeconfig.json
+D:\workspace\spg\POC\POC.EventGenerator\bin\Release\netcoreapp1.0\POC.EventGenerator.runtimeconfig.dev.json
+D:\workspace\spg\POC\POC.EventGenerator\bin\Release\netcoreapp1.0\POC.EventGenerator.dll
+D:\workspace\spg\POC\POC.EventGenerator\bin\Release\netcoreapp1.0\POC.EventGenerator.pdb
+D:\workspace\spg\POC\POC.EventGenerator\bin\Release\netcoreapp1.0\POC.Domain.dll
+D:\workspace\spg\POC\POC.EventGenerator\bin\Release\netcoreapp1.0\POC.Events.dll
+D:\workspace\spg\POC\POC.EventGenerator\bin\Release\netcoreapp1.0\POC.Utility.dll
+D:\workspace\spg\POC\POC.EventGenerator\bin\Release\netcoreapp1.0\POC.Utility.pdb
+D:\workspace\spg\POC\POC.EventGenerator\bin\Release\netcoreapp1.0\POC.Events.pdb
+D:\workspace\spg\POC\POC.EventGenerator\bin\Release\netcoreapp1.0\POC.Domain.pdb
+D:\workspace\spg\POC\POC.EventGenerator\obj\Release\netcoreapp1.0\POC.EventGenerator.csprojResolveAssemblyReference.cache
+D:\workspace\spg\POC\POC.EventGenerator\obj\Release\netcoreapp1.0\POC.EventGenerator.AssemblyInfo.cs
+D:\workspace\spg\POC\POC.EventGenerator\obj\Release\netcoreapp1.0\POC.EventGenerator.dll
+D:\workspace\spg\POC\POC.EventGenerator\obj\Release\netcoreapp1.0\POC.EventGenerator.pdb
+D:\workspace\spg\POC\POC.EventGenerator\bin\Release\netcoreapp1.0\appsettings.json

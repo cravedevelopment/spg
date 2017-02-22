@@ -1,0 +1,7 @@
+D:\workspace\spg\event_store_poc\SPG\SPG.Utility\bin\Release\netcoreapp1.0\SPG.Utility.deps.json
+D:\workspace\spg\event_store_poc\SPG\SPG.Utility\bin\Release\netcoreapp1.0\SPG.Utility.dll
+D:\workspace\spg\event_store_poc\SPG\SPG.Utility\bin\Release\netcoreapp1.0\SPG.Utility.pdb
+D:\workspace\spg\event_store_poc\SPG\SPG.Utility\obj\Release\netcoreapp1.0\SPG.Utility.AssemblyInfo.cs
+D:\workspace\spg\event_store_poc\SPG\SPG.Utility\obj\Release\netcoreapp1.0\SPG.Utility.dll
+D:\workspace\spg\event_store_poc\SPG\SPG.Utility\obj\Release\netcoreapp1.0\SPG.Utility.pdb
+D:\workspace\spg\event_store_poc\SPG\SPG.Utility\obj\Release\netcoreapp1.0\SPG.Utility.csprojResolveAssemblyReference.cache

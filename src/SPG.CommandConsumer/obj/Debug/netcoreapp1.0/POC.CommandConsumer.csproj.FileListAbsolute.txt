@@ -1,0 +1,9 @@
+D:\workspace\spg\POC\POC.CommandConsumer\bin\Debug\netcoreapp1.0\POC.CommandConsumer.deps.json
+D:\workspace\spg\POC\POC.CommandConsumer\bin\Debug\netcoreapp1.0\POC.CommandConsumer.runtimeconfig.json
+D:\workspace\spg\POC\POC.CommandConsumer\bin\Debug\netcoreapp1.0\POC.CommandConsumer.runtimeconfig.dev.json
+D:\workspace\spg\POC\POC.CommandConsumer\bin\Debug\netcoreapp1.0\POC.CommandConsumer.dll
+D:\workspace\spg\POC\POC.CommandConsumer\bin\Debug\netcoreapp1.0\POC.CommandConsumer.pdb
+D:\workspace\spg\POC\POC.CommandConsumer\obj\Debug\netcoreapp1.0\POC.CommandConsumer.csprojResolveAssemblyReference.cache
+D:\workspace\spg\POC\POC.CommandConsumer\obj\Debug\netcoreapp1.0\POC.CommandConsumer.AssemblyInfo.cs
+D:\workspace\spg\POC\POC.CommandConsumer\obj\Debug\netcoreapp1.0\POC.CommandConsumer.dll
+D:\workspace\spg\POC\POC.CommandConsumer\obj\Debug\netcoreapp1.0\POC.CommandConsumer.pdb

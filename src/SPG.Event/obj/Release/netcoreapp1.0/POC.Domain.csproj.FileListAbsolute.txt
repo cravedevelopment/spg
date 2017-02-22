@@ -1,0 +1,6 @@
+D:\workspace\spg\POC\POC.Event\bin\Release\netcoreapp1.0\POC.Domain.deps.json
+D:\workspace\spg\POC\POC.Event\bin\Release\netcoreapp1.0\POC.Domain.dll
+D:\workspace\spg\POC\POC.Event\bin\Release\netcoreapp1.0\POC.Domain.pdb
+D:\workspace\spg\POC\POC.Event\obj\Release\netcoreapp1.0\POC.Domain.AssemblyInfo.cs
+D:\workspace\spg\POC\POC.Event\obj\Release\netcoreapp1.0\POC.Domain.dll
+D:\workspace\spg\POC\POC.Event\obj\Release\netcoreapp1.0\POC.Domain.pdb

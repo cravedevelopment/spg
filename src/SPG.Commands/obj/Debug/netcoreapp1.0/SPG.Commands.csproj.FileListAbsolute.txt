@@ -1,0 +1,13 @@
+D:\workspace\spg\event_store_poc\SPG\SPG.Commands\bin\Debug\netcoreapp1.0\SPG.Commands.deps.json
+D:\workspace\spg\event_store_poc\SPG\SPG.Commands\bin\Debug\netcoreapp1.0\SPG.Commands.dll
+D:\workspace\spg\event_store_poc\SPG\SPG.Commands\bin\Debug\netcoreapp1.0\SPG.Commands.pdb
+D:\workspace\spg\event_store_poc\SPG\SPG.Commands\obj\Debug\netcoreapp1.0\SPG.Commands.AssemblyInfo.cs
+D:\workspace\spg\event_store_poc\SPG\SPG.Commands\obj\Debug\netcoreapp1.0\SPG.Commands.dll
+D:\workspace\spg\event_store_poc\SPG\SPG.Commands\obj\Debug\netcoreapp1.0\SPG.Commands.pdb
+D:\workspace\spg\event_store_poc\SPG\SPG.Commands\obj\Debug\netcoreapp1.0\SPG.Commands.csprojResolveAssemblyReference.cache
+D:\workspace\github\spg\SPG\SPG.Commands\bin\Debug\netcoreapp1.0\SPG.Commands.deps.json
+D:\workspace\github\spg\SPG\SPG.Commands\bin\Debug\netcoreapp1.0\SPG.Commands.dll
+D:\workspace\github\spg\SPG\SPG.Commands\bin\Debug\netcoreapp1.0\SPG.Commands.pdb
+D:\workspace\github\spg\SPG\SPG.Commands\obj\Debug\netcoreapp1.0\SPG.Commands.AssemblyInfo.cs
+D:\workspace\github\spg\SPG\SPG.Commands\obj\Debug\netcoreapp1.0\SPG.Commands.dll
+D:\workspace\github\spg\SPG\SPG.Commands\obj\Debug\netcoreapp1.0\SPG.Commands.pdb

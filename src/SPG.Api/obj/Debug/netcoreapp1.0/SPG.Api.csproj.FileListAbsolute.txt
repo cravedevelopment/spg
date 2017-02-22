@@ -1,0 +1,13 @@
+D:\workspace\github\spg\SPG\SPG.Api\bin\Debug\netcoreapp1.0\SPG.Api.deps.json
+D:\workspace\github\spg\SPG\SPG.Api\bin\Debug\netcoreapp1.0\SPG.Api.runtimeconfig.json
+D:\workspace\github\spg\SPG\SPG.Api\bin\Debug\netcoreapp1.0\SPG.Api.runtimeconfig.dev.json
+D:\workspace\github\spg\SPG\SPG.Api\obj\Debug\netcoreapp1.0\SPG.Api.csprojResolveAssemblyReference.cache
+D:\workspace\github\spg\SPG\SPG.Api\obj\Debug\netcoreapp1.0\SPG.Api.AssemblyInfo.cs
+D:\workspace\github\spg\SPG\SPG.Api\bin\Debug\netcoreapp1.0\SPG.Api.dll
+D:\workspace\github\spg\SPG\SPG.Api\bin\Debug\netcoreapp1.0\SPG.Api.pdb
+D:\workspace\github\spg\SPG\SPG.Api\bin\Debug\netcoreapp1.0\SPG.Data.dll
+D:\workspace\github\spg\SPG\SPG.Api\bin\Debug\netcoreapp1.0\SPG.Utility.dll
+D:\workspace\github\spg\SPG\SPG.Api\bin\Debug\netcoreapp1.0\SPG.Data.pdb
+D:\workspace\github\spg\SPG\SPG.Api\bin\Debug\netcoreapp1.0\SPG.Utility.pdb
+D:\workspace\github\spg\SPG\SPG.Api\obj\Debug\netcoreapp1.0\SPG.Api.dll
+D:\workspace\github\spg\SPG\SPG.Api\obj\Debug\netcoreapp1.0\SPG.Api.pdb

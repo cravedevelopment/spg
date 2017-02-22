@@ -1,0 +1,6 @@
+D:\workspace\spg\POC.Utility\bin\Release\netcoreapp1.0\POC.Utility.deps.json
+D:\workspace\spg\POC.Utility\bin\Release\netcoreapp1.0\POC.Utility.dll
+D:\workspace\spg\POC.Utility\bin\Release\netcoreapp1.0\POC.Utility.pdb
+D:\workspace\spg\POC.Utility\obj\Release\netcoreapp1.0\POC.Utility.AssemblyInfo.cs
+D:\workspace\spg\POC.Utility\obj\Release\netcoreapp1.0\POC.Utility.dll
+D:\workspace\spg\POC.Utility\obj\Release\netcoreapp1.0\POC.Utility.pdb

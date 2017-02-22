@@ -1,0 +1,7 @@
+D:\workspace\spg\event_store_poc\SPG\SPG.Event\bin\Debug\netcoreapp1.0\SPG.Domain.deps.json
+D:\workspace\spg\event_store_poc\SPG\SPG.Event\bin\Debug\netcoreapp1.0\SPG.Domain.dll
+D:\workspace\spg\event_store_poc\SPG\SPG.Event\bin\Debug\netcoreapp1.0\SPG.Domain.pdb
+D:\workspace\spg\event_store_poc\SPG\SPG.Event\obj\Debug\netcoreapp1.0\SPG.Domain.AssemblyInfo.cs
+D:\workspace\spg\event_store_poc\SPG\SPG.Event\obj\Debug\netcoreapp1.0\SPG.Domain.dll
+D:\workspace\spg\event_store_poc\SPG\SPG.Event\obj\Debug\netcoreapp1.0\SPG.Domain.pdb
+D:\workspace\spg\event_store_poc\SPG\SPG.Event\obj\Debug\netcoreapp1.0\SPG.Domain.csprojResolveAssemblyReference.cache

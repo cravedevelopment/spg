@@ -1,0 +1,7 @@
+D:\workspace\spg\POC\POC.Model\bin\Debug\netcoreapp1.0\POC.Model.deps.json
+D:\workspace\spg\POC\POC.Model\bin\Debug\netcoreapp1.0\POC.Model.dll
+D:\workspace\spg\POC\POC.Model\bin\Debug\netcoreapp1.0\POC.Model.pdb
+D:\workspace\spg\POC\POC.Model\obj\Debug\netcoreapp1.0\POC.Model.AssemblyInfo.cs
+D:\workspace\spg\POC\POC.Model\obj\Debug\netcoreapp1.0\POC.Model.dll
+D:\workspace\spg\POC\POC.Model\obj\Debug\netcoreapp1.0\POC.Model.pdb
+D:\workspace\spg\POC\POC.Model\obj\Debug\netcoreapp1.0\POC.Model.csprojResolveAssemblyReference.cache

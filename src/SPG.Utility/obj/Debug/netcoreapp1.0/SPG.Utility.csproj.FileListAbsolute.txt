@@ -1,0 +1,14 @@
+D:\workspace\spg\event_store_poc\SPG\SPG.Utility\bin\Debug\netcoreapp1.0\SPG.Utility.deps.json
+D:\workspace\spg\event_store_poc\SPG\SPG.Utility\bin\Debug\netcoreapp1.0\SPG.Utility.dll
+D:\workspace\spg\event_store_poc\SPG\SPG.Utility\bin\Debug\netcoreapp1.0\SPG.Utility.pdb
+D:\workspace\spg\event_store_poc\SPG\SPG.Utility\obj\Debug\netcoreapp1.0\SPG.Utility.AssemblyInfo.cs
+D:\workspace\spg\event_store_poc\SPG\SPG.Utility\obj\Debug\netcoreapp1.0\SPG.Utility.dll
+D:\workspace\spg\event_store_poc\SPG\SPG.Utility\obj\Debug\netcoreapp1.0\SPG.Utility.pdb
+D:\workspace\spg\event_store_poc\SPG\SPG.Utility\obj\Debug\netcoreapp1.0\SPG.Utility.csprojResolveAssemblyReference.cache
+D:\workspace\github\spg\SPG\SPG.Utility\bin\Debug\netcoreapp1.0\SPG.Utility.deps.json
+D:\workspace\github\spg\SPG\SPG.Utility\bin\Debug\netcoreapp1.0\SPG.Utility.dll
+D:\workspace\github\spg\SPG\SPG.Utility\bin\Debug\netcoreapp1.0\SPG.Utility.pdb
+D:\workspace\github\spg\SPG\SPG.Utility\obj\Debug\netcoreapp1.0\SPG.Utility.csprojResolveAssemblyReference.cache
+D:\workspace\github\spg\SPG\SPG.Utility\obj\Debug\netcoreapp1.0\SPG.Utility.AssemblyInfo.cs
+D:\workspace\github\spg\SPG\SPG.Utility\obj\Debug\netcoreapp1.0\SPG.Utility.dll
+D:\workspace\github\spg\SPG\SPG.Utility\obj\Debug\netcoreapp1.0\SPG.Utility.pdb

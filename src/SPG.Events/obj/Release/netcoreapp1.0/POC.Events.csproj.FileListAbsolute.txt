@@ -1,0 +1,6 @@
+D:\workspace\spg\POC\POC.Events\bin\Release\netcoreapp1.0\POC.Events.deps.json
+D:\workspace\spg\POC\POC.Events\bin\Release\netcoreapp1.0\POC.Events.dll
+D:\workspace\spg\POC\POC.Events\bin\Release\netcoreapp1.0\POC.Events.pdb
+D:\workspace\spg\POC\POC.Events\obj\Release\netcoreapp1.0\POC.Events.AssemblyInfo.cs
+D:\workspace\spg\POC\POC.Events\obj\Release\netcoreapp1.0\POC.Events.dll
+D:\workspace\spg\POC\POC.Events\obj\Release\netcoreapp1.0\POC.Events.pdb

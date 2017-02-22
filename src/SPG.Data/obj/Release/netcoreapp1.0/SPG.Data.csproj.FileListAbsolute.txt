@@ -1,0 +1,7 @@
+D:\workspace\spg\event_store_poc\SPG\SPG.Data\bin\Release\netcoreapp1.0\SPG.Data.deps.json
+D:\workspace\spg\event_store_poc\SPG\SPG.Data\bin\Release\netcoreapp1.0\SPG.Data.dll
+D:\workspace\spg\event_store_poc\SPG\SPG.Data\bin\Release\netcoreapp1.0\SPG.Data.pdb
+D:\workspace\spg\event_store_poc\SPG\SPG.Data\obj\Release\netcoreapp1.0\SPG.Data.AssemblyInfo.cs
+D:\workspace\spg\event_store_poc\SPG\SPG.Data\obj\Release\netcoreapp1.0\SPG.Data.dll
+D:\workspace\spg\event_store_poc\SPG\SPG.Data\obj\Release\netcoreapp1.0\SPG.Data.pdb
+D:\workspace\spg\event_store_poc\SPG\SPG.Data\obj\Release\netcoreapp1.0\SPG.Data.csprojResolveAssemblyReference.cache
