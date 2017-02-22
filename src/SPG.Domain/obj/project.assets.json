@@ -6713,10 +6713,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\workspace\\github\\spg\\SPG\\SPG.Domain\\POC.Domain.csproj",
+      "projectUniqueName": "D:\\workspace\\github\\spg\\src\\SPG.Domain\\POC.Domain.csproj",
       "projectName": "POC.Domain",
-      "projectPath": "D:\\workspace\\github\\spg\\SPG\\SPG.Domain\\POC.Domain.csproj",
-      "outputPath": "D:\\workspace\\github\\spg\\SPG\\SPG.Domain\\obj\\",
+      "projectPath": "D:\\workspace\\github\\spg\\src\\SPG.Domain\\POC.Domain.csproj",
+      "outputPath": "D:\\workspace\\github\\spg\\src\\SPG.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.0"

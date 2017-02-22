@@ -16,3 +16,12 @@ D:\workspace\github\spg\SPG\SPG.CommandConsumer\obj\Debug\netcoreapp1.0\SPG.Comm
 D:\workspace\github\spg\SPG\SPG.CommandConsumer\obj\Debug\netcoreapp1.0\SPG.CommandConsumer.AssemblyInfo.cs
 D:\workspace\github\spg\SPG\SPG.CommandConsumer\obj\Debug\netcoreapp1.0\SPG.CommandConsumer.dll
 D:\workspace\github\spg\SPG\SPG.CommandConsumer\obj\Debug\netcoreapp1.0\SPG.CommandConsumer.pdb
+D:\workspace\github\spg\src\SPG.CommandConsumer\bin\Debug\netcoreapp1.0\SPG.CommandConsumer.deps.json
+D:\workspace\github\spg\src\SPG.CommandConsumer\bin\Debug\netcoreapp1.0\SPG.CommandConsumer.runtimeconfig.json
+D:\workspace\github\spg\src\SPG.CommandConsumer\bin\Debug\netcoreapp1.0\SPG.CommandConsumer.runtimeconfig.dev.json
+D:\workspace\github\spg\src\SPG.CommandConsumer\bin\Debug\netcoreapp1.0\SPG.CommandConsumer.dll
+D:\workspace\github\spg\src\SPG.CommandConsumer\bin\Debug\netcoreapp1.0\SPG.CommandConsumer.pdb
+D:\workspace\github\spg\src\SPG.CommandConsumer\obj\Debug\netcoreapp1.0\SPG.CommandConsumer.csprojResolveAssemblyReference.cache
+D:\workspace\github\spg\src\SPG.CommandConsumer\obj\Debug\netcoreapp1.0\SPG.CommandConsumer.AssemblyInfo.cs
+D:\workspace\github\spg\src\SPG.CommandConsumer\obj\Debug\netcoreapp1.0\SPG.CommandConsumer.dll
+D:\workspace\github\spg\src\SPG.CommandConsumer\obj\Debug\netcoreapp1.0\SPG.CommandConsumer.pdb

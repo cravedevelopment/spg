@@ -22940,10 +22940,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\workspace\\github\\spg\\SPG\\SPG.Api\\SPG.Api.csproj",
+      "projectUniqueName": "D:\\workspace\\github\\spg\\src\\SPG.Api\\SPG.Api.csproj",
       "projectName": "SPG.Api",
-      "projectPath": "D:\\workspace\\github\\spg\\SPG\\SPG.Api\\SPG.Api.csproj",
-      "outputPath": "D:\\workspace\\github\\spg\\SPG\\SPG.Api\\obj\\",
+      "projectPath": "D:\\workspace\\github\\spg\\src\\SPG.Api\\SPG.Api.csproj",
+      "outputPath": "D:\\workspace\\github\\spg\\src\\SPG.Api\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.0"
@@ -22951,11 +22951,11 @@
       "frameworks": {
         "netcoreapp1.0": {
           "projectReferences": {
-            "D:\\workspace\\github\\spg\\SPG\\SPG.Data\\SPG.Data.csproj": {
-              "projectPath": "D:\\workspace\\github\\spg\\SPG\\SPG.Data\\SPG.Data.csproj"
+            "D:\\workspace\\github\\spg\\src\\SPG.Data\\SPG.Data.csproj": {
+              "projectPath": "D:\\workspace\\github\\spg\\src\\SPG.Data\\SPG.Data.csproj"
             },
-            "D:\\workspace\\github\\spg\\SPG\\SPG.Utility\\SPG.Utility.csproj": {
-              "projectPath": "D:\\workspace\\github\\spg\\SPG\\SPG.Utility\\SPG.Utility.csproj"
+            "D:\\workspace\\github\\spg\\src\\SPG.Utility\\SPG.Utility.csproj": {
+              "projectPath": "D:\\workspace\\github\\spg\\src\\SPG.Utility\\SPG.Utility.csproj"
             }
           }
         }

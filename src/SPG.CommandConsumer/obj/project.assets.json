@@ -14738,10 +14738,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\workspace\\github\\spg\\SPG\\SPG.CommandConsumer\\SPG.CommandConsumer.csproj",
+      "projectUniqueName": "D:\\workspace\\github\\spg\\src\\SPG.CommandConsumer\\SPG.CommandConsumer.csproj",
       "projectName": "SPG.CommandConsumer",
-      "projectPath": "D:\\workspace\\github\\spg\\SPG\\SPG.CommandConsumer\\SPG.CommandConsumer.csproj",
-      "outputPath": "D:\\workspace\\github\\spg\\SPG\\SPG.CommandConsumer\\obj\\",
+      "projectPath": "D:\\workspace\\github\\spg\\src\\SPG.CommandConsumer\\SPG.CommandConsumer.csproj",
+      "outputPath": "D:\\workspace\\github\\spg\\src\\SPG.CommandConsumer\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.0"

@@ -26,3 +26,17 @@ D:\workspace\github\spg\SPG\SPG.EventGenerator\obj\Debug\netcoreapp1.0\SPG.Event
 D:\workspace\github\spg\SPG\SPG.EventGenerator\obj\Debug\netcoreapp1.0\SPG.EventGenerator.AssemblyInfo.cs
 D:\workspace\github\spg\SPG\SPG.EventGenerator\obj\Debug\netcoreapp1.0\SPG.EventGenerator.dll
 D:\workspace\github\spg\SPG\SPG.EventGenerator\obj\Debug\netcoreapp1.0\SPG.EventGenerator.pdb
+D:\workspace\github\spg\src\SPG.EventGenerator\bin\Debug\netcoreapp1.0\appsettings.json
+D:\workspace\github\spg\src\SPG.EventGenerator\bin\Debug\netcoreapp1.0\SPG.EventGenerator.deps.json
+D:\workspace\github\spg\src\SPG.EventGenerator\bin\Debug\netcoreapp1.0\SPG.EventGenerator.runtimeconfig.json
+D:\workspace\github\spg\src\SPG.EventGenerator\bin\Debug\netcoreapp1.0\SPG.EventGenerator.runtimeconfig.dev.json
+D:\workspace\github\spg\src\SPG.EventGenerator\bin\Debug\netcoreapp1.0\SPG.EventGenerator.dll
+D:\workspace\github\spg\src\SPG.EventGenerator\bin\Debug\netcoreapp1.0\SPG.EventGenerator.pdb
+D:\workspace\github\spg\src\SPG.EventGenerator\bin\Debug\netcoreapp1.0\SPG.Data.dll
+D:\workspace\github\spg\src\SPG.EventGenerator\bin\Debug\netcoreapp1.0\SPG.Utility.dll
+D:\workspace\github\spg\src\SPG.EventGenerator\bin\Debug\netcoreapp1.0\SPG.Data.pdb
+D:\workspace\github\spg\src\SPG.EventGenerator\bin\Debug\netcoreapp1.0\SPG.Utility.pdb
+D:\workspace\github\spg\src\SPG.EventGenerator\obj\Debug\netcoreapp1.0\SPG.EventGenerator.csprojResolveAssemblyReference.cache
+D:\workspace\github\spg\src\SPG.EventGenerator\obj\Debug\netcoreapp1.0\SPG.EventGenerator.AssemblyInfo.cs
+D:\workspace\github\spg\src\SPG.EventGenerator\obj\Debug\netcoreapp1.0\SPG.EventGenerator.dll
+D:\workspace\github\spg\src\SPG.EventGenerator\obj\Debug\netcoreapp1.0\SPG.EventGenerator.pdb

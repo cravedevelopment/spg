@@ -10,3 +10,9 @@ D:\workspace\github\spg\SPG\SPG.Domain\bin\Debug\netcoreapp1.0\POC.Domain.pdb
 D:\workspace\github\spg\SPG\SPG.Domain\obj\Debug\netcoreapp1.0\POC.Domain.AssemblyInfo.cs
 D:\workspace\github\spg\SPG\SPG.Domain\obj\Debug\netcoreapp1.0\POC.Domain.dll
 D:\workspace\github\spg\SPG\SPG.Domain\obj\Debug\netcoreapp1.0\POC.Domain.pdb
+D:\workspace\github\spg\src\SPG.Domain\bin\Debug\netcoreapp1.0\POC.Domain.deps.json
+D:\workspace\github\spg\src\SPG.Domain\bin\Debug\netcoreapp1.0\POC.Domain.dll
+D:\workspace\github\spg\src\SPG.Domain\bin\Debug\netcoreapp1.0\POC.Domain.pdb
+D:\workspace\github\spg\src\SPG.Domain\obj\Debug\netcoreapp1.0\POC.Domain.AssemblyInfo.cs
+D:\workspace\github\spg\src\SPG.Domain\obj\Debug\netcoreapp1.0\POC.Domain.dll
+D:\workspace\github\spg\src\SPG.Domain\obj\Debug\netcoreapp1.0\POC.Domain.pdb

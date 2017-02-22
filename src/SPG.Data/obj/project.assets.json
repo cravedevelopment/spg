@@ -8407,10 +8407,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\workspace\\github\\spg\\SPG\\SPG.Data\\SPG.Data.csproj",
+      "projectUniqueName": "D:\\workspace\\github\\spg\\src\\SPG.Data\\SPG.Data.csproj",
       "projectName": "SPG.Data",
-      "projectPath": "D:\\workspace\\github\\spg\\SPG\\SPG.Data\\SPG.Data.csproj",
-      "outputPath": "D:\\workspace\\github\\spg\\SPG\\SPG.Data\\obj\\",
+      "projectPath": "D:\\workspace\\github\\spg\\src\\SPG.Data\\SPG.Data.csproj",
+      "outputPath": "D:\\workspace\\github\\spg\\src\\SPG.Data\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.0"

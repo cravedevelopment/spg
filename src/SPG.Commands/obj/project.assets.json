@@ -6713,10 +6713,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\workspace\\github\\spg\\SPG\\SPG.Commands\\SPG.Commands.csproj",
+      "projectUniqueName": "D:\\workspace\\github\\spg\\src\\SPG.Commands\\SPG.Commands.csproj",
       "projectName": "SPG.Commands",
-      "projectPath": "D:\\workspace\\github\\spg\\SPG\\SPG.Commands\\SPG.Commands.csproj",
-      "outputPath": "D:\\workspace\\github\\spg\\SPG\\SPG.Commands\\obj\\",
+      "projectPath": "D:\\workspace\\github\\spg\\src\\SPG.Commands\\SPG.Commands.csproj",
+      "outputPath": "D:\\workspace\\github\\spg\\src\\SPG.Commands\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.0"

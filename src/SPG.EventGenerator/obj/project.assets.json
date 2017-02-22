@@ -18121,10 +18121,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\workspace\\github\\spg\\SPG\\SPG.EventGenerator\\SPG.EventGenerator.csproj",
+      "projectUniqueName": "D:\\workspace\\github\\spg\\src\\SPG.EventGenerator\\SPG.EventGenerator.csproj",
       "projectName": "SPG.EventGenerator",
-      "projectPath": "D:\\workspace\\github\\spg\\SPG\\SPG.EventGenerator\\SPG.EventGenerator.csproj",
-      "outputPath": "D:\\workspace\\github\\spg\\SPG\\SPG.EventGenerator\\obj\\",
+      "projectPath": "D:\\workspace\\github\\spg\\src\\SPG.EventGenerator\\SPG.EventGenerator.csproj",
+      "outputPath": "D:\\workspace\\github\\spg\\src\\SPG.EventGenerator\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.0"
@@ -18132,11 +18132,11 @@
       "frameworks": {
         "netcoreapp1.0": {
           "projectReferences": {
-            "D:\\workspace\\github\\spg\\SPG\\SPG.Data\\SPG.Data.csproj": {
-              "projectPath": "D:\\workspace\\github\\spg\\SPG\\SPG.Data\\SPG.Data.csproj"
+            "D:\\workspace\\github\\spg\\src\\SPG.Data\\SPG.Data.csproj": {
+              "projectPath": "D:\\workspace\\github\\spg\\src\\SPG.Data\\SPG.Data.csproj"
             },
-            "D:\\workspace\\github\\spg\\SPG\\SPG.Utility\\SPG.Utility.csproj": {
-              "projectPath": "D:\\workspace\\github\\spg\\SPG\\SPG.Utility\\SPG.Utility.csproj"
+            "D:\\workspace\\github\\spg\\src\\SPG.Utility\\SPG.Utility.csproj": {
+              "projectPath": "D:\\workspace\\github\\spg\\src\\SPG.Utility\\SPG.Utility.csproj"
             }
           }
         }

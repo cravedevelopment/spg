@@ -12,3 +12,9 @@ D:\workspace\github\spg\SPG\SPG.Model\obj\Debug\netcoreapp1.0\SPG.Model.csprojRe
 D:\workspace\github\spg\SPG\SPG.Model\obj\Debug\netcoreapp1.0\SPG.Model.AssemblyInfo.cs
 D:\workspace\github\spg\SPG\SPG.Model\obj\Debug\netcoreapp1.0\SPG.Model.dll
 D:\workspace\github\spg\SPG\SPG.Model\obj\Debug\netcoreapp1.0\SPG.Model.pdb
+D:\workspace\github\spg\src\SPG.Model\bin\Debug\netcoreapp1.0\SPG.Model.deps.json
+D:\workspace\github\spg\src\SPG.Model\bin\Debug\netcoreapp1.0\SPG.Model.dll
+D:\workspace\github\spg\src\SPG.Model\bin\Debug\netcoreapp1.0\SPG.Model.pdb
+D:\workspace\github\spg\src\SPG.Model\obj\Debug\netcoreapp1.0\SPG.Model.AssemblyInfo.cs
+D:\workspace\github\spg\src\SPG.Model\obj\Debug\netcoreapp1.0\SPG.Model.dll
+D:\workspace\github\spg\src\SPG.Model\obj\Debug\netcoreapp1.0\SPG.Model.pdb

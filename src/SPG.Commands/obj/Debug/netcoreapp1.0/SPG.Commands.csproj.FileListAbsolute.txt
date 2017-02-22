@@ -11,3 +11,9 @@ D:\workspace\github\spg\SPG\SPG.Commands\bin\Debug\netcoreapp1.0\SPG.Commands.pd
 D:\workspace\github\spg\SPG\SPG.Commands\obj\Debug\netcoreapp1.0\SPG.Commands.AssemblyInfo.cs
 D:\workspace\github\spg\SPG\SPG.Commands\obj\Debug\netcoreapp1.0\SPG.Commands.dll
 D:\workspace\github\spg\SPG\SPG.Commands\obj\Debug\netcoreapp1.0\SPG.Commands.pdb
+D:\workspace\github\spg\src\SPG.Commands\bin\Debug\netcoreapp1.0\SPG.Commands.deps.json
+D:\workspace\github\spg\src\SPG.Commands\bin\Debug\netcoreapp1.0\SPG.Commands.dll
+D:\workspace\github\spg\src\SPG.Commands\bin\Debug\netcoreapp1.0\SPG.Commands.pdb
+D:\workspace\github\spg\src\SPG.Commands\obj\Debug\netcoreapp1.0\SPG.Commands.AssemblyInfo.cs
+D:\workspace\github\spg\src\SPG.Commands\obj\Debug\netcoreapp1.0\SPG.Commands.dll
+D:\workspace\github\spg\src\SPG.Commands\obj\Debug\netcoreapp1.0\SPG.Commands.pdb
