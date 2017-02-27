@@ -18,3 +18,4 @@ D:\workspace\github\spg\src\SPG.Utility\bin\Debug\netcoreapp1.0\SPG.Utility.pdb
 D:\workspace\github\spg\src\SPG.Utility\obj\Debug\netcoreapp1.0\SPG.Utility.AssemblyInfo.cs
 D:\workspace\github\spg\src\SPG.Utility\obj\Debug\netcoreapp1.0\SPG.Utility.dll
 D:\workspace\github\spg\src\SPG.Utility\obj\Debug\netcoreapp1.0\SPG.Utility.pdb
+D:\workspace\github\spg\src\SPG.Utility\obj\Debug\netcoreapp1.0\SPG.Utility.csprojResolveAssemblyReference.cache

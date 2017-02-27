@@ -32,12 +32,6 @@ namespace SPG.WebAPI
             }
             Configuration = builder.Build();
 
-            //var host = new WebHostBuilder() 
-            //    .UseKestrel()
-            //    .UseContentRoot(Directory.GetCurrentDirectory())
-            //    .UseIISIntegration()
-            //    .UseStartup<Startup>()
-            //    .Build();
         }
 
         public IConfigurationRoot Configuration { get; }
@@ -46,23 +40,20 @@ namespace SPG.WebAPI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddApplicationInsightsTelemetry(Configuration);
-
+            services.AddCors(options =>
+            {
+                options.AddPolicy("SPGCorsPolicy",
+                    builder => builder.AllowAnyOrigin()
+                    .AllowAnyMethod()
+                    .AllowAnyHeader()
+                    .AllowCredentials());
+            });
             services.AddMvc();
             services.AddDbContext<ApplicationContext>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddScoped(typeof(Data.EF.IRepository<>), typeof(Data.EF.Repository<>));
 
-            //services.Configure<IISOptions>(options =>
-            //{
-
-            //});
-
-
-            //services.Configure<MvcOptions>(options =>
-            //{
-            //    options.Filters.Add(new CorsAuthorizationFilterFactory("AllowSpecificOrigin"));
-            //});
-            //services.AddCors();
+    
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -70,18 +61,10 @@ namespace SPG.WebAPI
         {
             loggerFactory.AddConsole(Configuration.GetSection("Logging"));
             loggerFactory.AddDebug();
-
+            // global policy - assign here or on each controller
+            app.UseCors("SPGCorsPolicy");
             app.UseMvc();
-            //if (env.IsDevelopment())
-            //{
-            //    app.UseDeveloperExceptionPage();
-            //}
-            //// Shows UseCors with CorsPolicyBuilder.
-            //app.UseCors(builder =>
-            //builder.WithOrigins("http://example.com").AllowAnyMethod().AllowAnyHeader());
-
-
-
+         
             var dataText = System.IO.File.ReadAllText(@"Tools/seeddata.json");
             Seeder.Seedit(dataText, app.ApplicationServices);
 

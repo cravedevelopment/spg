@@ -18,3 +18,4 @@ D:\workspace\github\spg\src\SPG.Data\bin\Debug\netcoreapp1.0\SPG.Data.pdb
 D:\workspace\github\spg\src\SPG.Data\obj\Debug\netcoreapp1.0\SPG.Data.AssemblyInfo.cs
 D:\workspace\github\spg\src\SPG.Data\obj\Debug\netcoreapp1.0\SPG.Data.dll
 D:\workspace\github\spg\src\SPG.Data\obj\Debug\netcoreapp1.0\SPG.Data.pdb
+D:\workspace\github\spg\src\SPG.Data\obj\Debug\netcoreapp1.0\SPG.Data.csprojResolveAssemblyReference.cache
