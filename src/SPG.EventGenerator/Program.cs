@@ -7,9 +7,10 @@ using System.Text;
 using EventStore.ClientAPI;
 using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json;
+using SPG.EventSourcing.Event;
 using SPG.Utility;
-using SPG.Data.CQRS;
-using SPG.Data.CQRS.Events;
+//using SPG.Data.CQRS;
+//using SPG.Data.CQRS.Events;
 
 namespace SPG.EventGenerator
 {
@@ -70,25 +71,25 @@ namespace SPG.EventGenerator
 
         public static void PublishEvent(int maxNumberOfCustomers, int maxNumberOfSites)
         {
-            const string streamName = "poc_event_stream";
-            var aggregateId = Guid.NewGuid();
-            List<IEvent> events = new List<IEvent>
-            {
-                new SampleEventCreated(aggregateId, DateTime.Now,
-                    RandomNumberGenerator.NumberValue(1, Convert.ToInt32(maxNumberOfCustomers)),
-                    RandomNumberGenerator.NumberValue(1, Convert.ToInt32(maxNumberOfSites)),
-                    RandomNumberGenerator.NumberValue(1, 250),
-                    RandomNumberGenerator.NumberValue(0, 20),
-                    RandomNumberGenerator.ByteArrayValue(200))
-            };
+            //const string streamName = "poc_event_stream";
+            //var aggregateId = Guid.NewGuid();
+            //List<IEvent> events = new List<IEvent>
+            //{
+            //    new SampleEventCreated(aggregateId, DateTime.Now,
+            //        RandomNumberGenerator.NumberValue(1, Convert.ToInt32(maxNumberOfCustomers)),
+            //        RandomNumberGenerator.NumberValue(1, Convert.ToInt32(maxNumberOfSites)),
+            //        RandomNumberGenerator.NumberValue(1, 250),
+            //        RandomNumberGenerator.NumberValue(0, 20),
+            //        RandomNumberGenerator.ByteArrayValue(200))
+            //};
 
-            foreach (var item in events)
-            {
-                var jsonString = JsonConvert.SerializeObject(item, new JsonSerializerSettings { TypeNameHandling = TypeNameHandling.None });
-                var jsonPayload = Encoding.UTF8.GetBytes(jsonString);
-                var eventStoreDataType = new EventData(Guid.NewGuid(), item.GetType().Name, true, jsonPayload, null);
-                Connection.AppendToStreamAsync(streamName, ExpectedVersion.Any, eventStoreDataType);
-            }
+            //foreach (var item in events)
+            //{
+            //    var jsonString = JsonConvert.SerializeObject(item, new JsonSerializerSettings { TypeNameHandling = TypeNameHandling.None });
+            //    var jsonPayload = Encoding.UTF8.GetBytes(jsonString);
+            //    var eventStoreDataType = new EventData(Guid.NewGuid(), item.GetType().Name, true, jsonPayload, null);
+            //    Connection.AppendToStreamAsync(streamName, ExpectedVersion.Any, eventStoreDataType);
+            //}
 
             //var results = Task.Run(() => connection.ReadStreamEventsForwardAsync(aggregateId.ToString(), StreamPosition.Start, 999,
             //  false));

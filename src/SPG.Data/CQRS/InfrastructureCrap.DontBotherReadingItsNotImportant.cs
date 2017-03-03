@@ -15,7 +15,7 @@ namespace SPG.Data.CQRS
     class PrivateReflectionDynamicObject : DynamicObject
     {
 
-        private static IDictionary<Type, IDictionary<string, IProperty>> _propertiesOnType = new ConcurrentDictionary<Type, IDictionary<string, IProperty>>();
+        private static readonly IDictionary<Type, IDictionary<string, IProperty>> _propertiesOnType = new ConcurrentDictionary<Type, IDictionary<string, IProperty>>();
 
         // Simple abstraction to make field and property access consistent
         interface IProperty

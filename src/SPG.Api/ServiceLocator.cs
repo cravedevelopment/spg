@@ -1,10 +1,10 @@
-﻿using SPG.Data.CQRS.Commands;
+﻿//using SPG.Data.CQRS.Commands;
 
-namespace SPG.WebAPI
-{
-    public static class ServiceLocator
-    {
-        public static CommandBus Bus { get; set; }
+//namespace SPG.Api
+//{
+//    public static class ServiceLocator
+//    {
+//        public static CommandBus Bus { get; set; }
 
-    }
-}
+//    }
+//}

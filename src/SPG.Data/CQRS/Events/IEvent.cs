@@ -1,7 +1,4 @@
-﻿using SPG.Data.CQRS.Messages;
-using System;
-
-namespace SPG.Data.CQRS
+﻿namespace SPG.Data.CQRS.Events
 {
     public interface IEvent : IMessage
     {

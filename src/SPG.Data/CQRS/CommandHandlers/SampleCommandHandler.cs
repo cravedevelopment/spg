@@ -5,9 +5,9 @@ namespace SPG.Data.CQRS.CommandHandlers
 {
     public class SampleCommandHandler
     {
-        private readonly IRepository<SampleModel> _repository;
+        private readonly IRepository _repository;
 
-        public SampleCommandHandler(IRepository<SampleModel> repository)
+        public SampleCommandHandler(IRepository repository)
         {
             _repository = repository;
         }

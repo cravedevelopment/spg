@@ -1,13 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using SPG.Data.CQRS.Events;
 
 namespace SPG.Data.CQRS
 {
     public abstract class AggregateRoot
     {
         private readonly List<IEvent> _changes = new List<IEvent>();
-        private Dictionary<Type, Action<IEvent>> _routes = new Dictionary<Type, Action<IEvent>>();
+        private readonly Dictionary<Type, Action<IEvent>> _routes = new Dictionary<Type, Action<IEvent>>();
         public abstract Guid Id { get; }
         public int Version { get; internal set; }
 

@@ -24,3 +24,5 @@ D:\workspace\github\spg\src\SPG.Api\obj\Debug\netcoreapp1.0\SPG.Api.csprojResolv
 D:\workspace\github\spg\src\SPG.Api\obj\Debug\netcoreapp1.0\SPG.Api.AssemblyInfo.cs
 D:\workspace\github\spg\src\SPG.Api\obj\Debug\netcoreapp1.0\SPG.Api.dll
 D:\workspace\github\spg\src\SPG.Api\obj\Debug\netcoreapp1.0\SPG.Api.pdb
+D:\workspace\github\spg\src\SPG.Api\bin\Debug\netcoreapp1.0\SPG.EventSourcing.dll
+D:\workspace\github\spg\src\SPG.Api\bin\Debug\netcoreapp1.0\SPG.EventSourcing.pdb

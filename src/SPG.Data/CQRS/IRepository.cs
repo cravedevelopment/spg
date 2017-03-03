@@ -1,15 +1,14 @@
 ﻿using SPG.Data.CQRS.Commands;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace SPG.Data.CQRS
 {
 
-    public interface IRepository<T> where T : AggregateRoot, new()
+    public interface IRepository
     {
         void SaveEvents(AggregateRoot aggregate, int expectedVersion);
         void SaveCommand<TCommand>(TCommand command) where TCommand : ICommand;
-        T GetById(Guid id);
+        TResult GetById<TResult>(Guid id) where TResult : AggregateRoot, new();
+        TResult GetByUserId<TResult>(int userId) where TResult : AggregateRoot, new();
     }
 }

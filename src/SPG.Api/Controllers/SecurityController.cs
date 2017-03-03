@@ -1,11 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using SPG.Data.EF;
-using SPG.Model;
+using SPG.Data.Models;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
-namespace SPG.WebAPI.Controllers
+namespace SPG.Api.Controllers
 {
     [Route("api/[controller]")]
     public class SecurityController : Controller

@@ -1,5 +1,4 @@
 ﻿using SPG.Data.CQRS.Domain;
-using SPG.Data.CQRS.Messages;
 using System;
 using System.Collections.Generic;
 using System.Text;

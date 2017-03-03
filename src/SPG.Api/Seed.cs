@@ -4,9 +4,9 @@ using System.Linq;
 using Microsoft.Extensions.DependencyInjection;
 using Newtonsoft.Json;
 using SPG.Data.EF;
-using SPG.Model;
+using SPG.Data.Models;
 
-namespace SPG.WebAPI
+namespace SPG.Api
 {
     public class Seeder
     {

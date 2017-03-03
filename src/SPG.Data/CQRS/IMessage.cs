@@ -1,4 +1,4 @@
-﻿namespace SPG.Data.CQRS.Messages
+﻿namespace SPG.Data.CQRS
 {
     public interface IMessage
     {

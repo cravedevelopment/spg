@@ -1,8 +1,8 @@
-﻿using EventStore.ClientAPI;
+﻿using System.Net;
+using EventStore.ClientAPI;
 using EventStore.ClientAPI.SystemData;
-using System.Net;
 
-namespace SPG.WebAPI
+namespace SPG.Api
 {
     public static class EventStoreConfiguration
     {

@@ -7,9 +7,9 @@ namespace SPG.Utility
 {
     class EventLimiter
     {
-        Queue<DateTime> requestTimes;
-        int maxRequests;
-        TimeSpan timeSpan;
+        readonly Queue<DateTime> requestTimes;
+        readonly int maxRequests;
+        readonly TimeSpan timeSpan;
 
         public EventLimiter(int maxRequests, TimeSpan timeSpan)
         {

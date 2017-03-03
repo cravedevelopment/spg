@@ -1,8 +1,7 @@
 ﻿using System.IO;
-using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 
-namespace SPG.WebAPI
+namespace SPG.Api
 {
     public class Program
     {

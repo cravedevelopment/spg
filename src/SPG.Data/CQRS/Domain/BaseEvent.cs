@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using SPG.Data.CQRS.Events;
 
 namespace SPG.Data.CQRS.Domain
 {

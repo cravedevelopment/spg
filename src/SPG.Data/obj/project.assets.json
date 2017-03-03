@@ -2876,6 +2876,13 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "SPG.EventSourcing/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v1.0",
+        "dependencies": {
+          "Microsoft.NETCore.App": "1.1.0"
+        }
       }
     }
   },
@@ -8389,6 +8396,11 @@
         "system.xml.xpath.xdocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "SPG.EventSourcing/1.0.0": {
+      "type": "project",
+      "path": "../SPG.EventSourcing/SPG.EventSourcing.csproj",
+      "msbuildProject": "../SPG.EventSourcing/SPG.EventSourcing.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -8398,6 +8410,7 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 1.1.0",
       "Microsoft.EntityFrameworkCore.Tools >= 1.1.0-preview4-final",
       "Microsoft.NETCore.App >= 1.1.0",
+      "SPG.EventSourcing >= 1.0.0",
       "System.Reflection.TypeExtensions >= 4.3.0"
     ]
   },
@@ -8417,7 +8430,11 @@
       ],
       "frameworks": {
         "netcoreapp1.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\workspace\\github\\spg\\src\\SPG.EventSourcing\\SPG.EventSourcing.csproj": {
+              "projectPath": "D:\\workspace\\github\\spg\\src\\SPG.EventSourcing\\SPG.EventSourcing.csproj"
+            }
+          }
         }
       }
     },

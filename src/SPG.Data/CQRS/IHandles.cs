@@ -1,4 +1,4 @@
-﻿namespace SPG.Data.CQRS.Handlers
+﻿namespace SPG.Data.CQRS
 {
     public interface IHandles<T>
     {

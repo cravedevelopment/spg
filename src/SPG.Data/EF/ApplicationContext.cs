@@ -1,6 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-
-using SPG.Model;
+using SPG.Data.Models;
 
 
 namespace SPG.Data.EF

@@ -1,19 +1,18 @@
 ﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Cors.Internal;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
-using SPG.Data.CQRS;
-using SPG.Data.CQRS.CommandHandlers;
-using SPG.Data.CQRS.Commands;
-using SPG.Data.CQRS.WriteModel;
+//using SPG.Data.CQRS.CommandHandlers;
+//using SPG.Data.CQRS.Commands;
+//using SPG.Data.CQRS.Repositories;
 using SPG.Data.EF;
-using System.IO;
+using SPG.Data.EventSource;
+using SPG.Data.EventSource.CommandBus;
+using SPG.EventSourcing.CommandBus;
 
-namespace SPG.WebAPI
+namespace SPG.Api
 {
     public class Startup
     {
@@ -52,8 +51,7 @@ namespace SPG.WebAPI
             services.AddDbContext<ApplicationContext>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddScoped(typeof(Data.EF.IRepository<>), typeof(Data.EF.Repository<>));
-
-    
+            services.AddScoped(typeof(ICommandBus), typeof(CommandBus));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -71,11 +69,11 @@ namespace SPG.WebAPI
 
             var connection = EventStoreConfiguration.CreateConnection(Configuration.GetSection("EventStoreConfig:EventStorePort").Value,
            Configuration.GetConnectionString("EventStoreConfig:EventStoreHostName"));
-            var commandBus = new CommandBus();
-            var repository = new EventStoreRepository<SampleModel>(connection);
-            var commands = new SampleCommandHandler(repository);
-            commandBus.RegisterHandler<CreateSampleCommand>(commands.Handle);
-            ServiceLocator.Bus = commandBus;
+            //var commandBus = new CommandBus();
+            //var repository = new EventStoreRepository(connection);
+            //var commands = new SampleCommandHandler(repository);
+            //commandBus.RegisterHandler<CreateSampleCommand>(commands.Handle);
+            //ServiceLocator.Bus = commandBus;
         }
     }
 }

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using SPG.Data.CQRS.Events;
 
 namespace SPG.Data.CQRS
 {

@@ -12,6 +12,7 @@
           "Microsoft.EntityFrameworkCore": "1.1.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "1.1.0",
           "Microsoft.EntityFrameworkCore.Tools": "1.1.0-preview4-final",
+          "SPG.EventSourcing": "1.0.0",
           "System.Reflection.TypeExtensions": "4.3.0"
         },
         "runtime": {
@@ -1717,6 +1718,11 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "spg.eventsourcing/1.0.0": {
+        "runtime": {
+          "SPG.EventSourcing.dll": {}
+        }
       }
     }
   },
@@ -2607,6 +2613,11 @@
       "sha512": "sha512-FrazwwqfIXTfq23mfv4zH+BjqkSFNaNFBtjzu3I9NRmG8EELYyrv/fJnttCIwRMFRR/YKXF1hmsMmMEnl55HGw==",
       "path": "system.xml.xmlserializer/4.0.11",
       "hashPath": "system.xml.xmlserializer.4.0.11.nupkg.sha512"
+    },
+    "spg.eventsourcing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

@@ -19,3 +19,5 @@ D:\workspace\github\spg\src\SPG.Data\obj\Debug\netcoreapp1.0\SPG.Data.AssemblyIn
 D:\workspace\github\spg\src\SPG.Data\obj\Debug\netcoreapp1.0\SPG.Data.dll
 D:\workspace\github\spg\src\SPG.Data\obj\Debug\netcoreapp1.0\SPG.Data.pdb
 D:\workspace\github\spg\src\SPG.Data\obj\Debug\netcoreapp1.0\SPG.Data.csprojResolveAssemblyReference.cache
+D:\workspace\github\spg\src\SPG.Data\bin\Debug\netcoreapp1.0\SPG.EventSourcing.dll
+D:\workspace\github\spg\src\SPG.Data\bin\Debug\netcoreapp1.0\SPG.EventSourcing.pdb

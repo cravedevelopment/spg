@@ -3950,7 +3950,15 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "1.1.0",
           "Microsoft.EntityFrameworkCore.Tools": "1.1.0-preview4-final",
           "Microsoft.NETCore.App": "1.1.0",
+          "SPG.EventSourcing": "1.0.0",
           "System.Reflection.TypeExtensions": "4.3.0"
+        }
+      },
+      "SPG.EventSourcing/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v1.0",
+        "dependencies": {
+          "Microsoft.NETCore.App": "1.1.0"
         }
       },
       "SPG.Utility/1.0.0": {
@@ -7946,7 +7954,15 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "1.1.0",
           "Microsoft.EntityFrameworkCore.Tools": "1.1.0-preview4-final",
           "Microsoft.NETCore.App": "1.1.0",
+          "SPG.EventSourcing": "1.0.0",
           "System.Reflection.TypeExtensions": "4.3.0"
+        }
+      },
+      "SPG.EventSourcing/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v1.0",
+        "dependencies": {
+          "Microsoft.NETCore.App": "1.1.0"
         }
       },
       "SPG.Utility/1.0.0": {
@@ -11942,7 +11958,15 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "1.1.0",
           "Microsoft.EntityFrameworkCore.Tools": "1.1.0-preview4-final",
           "Microsoft.NETCore.App": "1.1.0",
+          "SPG.EventSourcing": "1.0.0",
           "System.Reflection.TypeExtensions": "4.3.0"
+        }
+      },
+      "SPG.EventSourcing/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v1.0",
+        "dependencies": {
+          "Microsoft.NETCore.App": "1.1.0"
         }
       },
       "SPG.Utility/1.0.0": {
@@ -15938,7 +15962,15 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "1.1.0",
           "Microsoft.EntityFrameworkCore.Tools": "1.1.0-preview4-final",
           "Microsoft.NETCore.App": "1.1.0",
+          "SPG.EventSourcing": "1.0.0",
           "System.Reflection.TypeExtensions": "4.3.0"
+        }
+      },
+      "SPG.EventSourcing/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v1.0",
+        "dependencies": {
+          "Microsoft.NETCore.App": "1.1.0"
         }
       },
       "SPG.Utility/1.0.0": {
@@ -22916,6 +22948,11 @@
       "type": "project",
       "path": "../SPG.Data/SPG.Data.csproj",
       "msbuildProject": "../SPG.Data/SPG.Data.csproj"
+    },
+    "SPG.EventSourcing/1.0.0": {
+      "type": "project",
+      "path": "../SPG.EventSourcing/SPG.EventSourcing.csproj",
+      "msbuildProject": "../SPG.EventSourcing/SPG.EventSourcing.csproj"
     },
     "SPG.Utility/1.0.0": {
       "type": "project",

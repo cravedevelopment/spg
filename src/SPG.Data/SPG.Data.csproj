@@ -5,7 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="CQRS\Bus.cs" />
+    <Compile Remove="CQRS\**" />
+    <EmbeddedResource Remove="CQRS\**" />
+    <None Remove="CQRS\**" />
   </ItemGroup>
 
   <ItemGroup>
@@ -17,14 +19,17 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\SPG.EventSourcing\SPG.EventSourcing.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Reference Include="Newtonsoft.Json">
       <HintPath>C:\Users\eursua\.nuget\packages\newtonsoft.json\9.0.1\lib\netstandard1.0\Newtonsoft.Json.dll</HintPath>
     </Reference>
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="CQRS\Messages\" />
-    <Folder Include="CQRS\ReadModel\" />
+    <Folder Include="EventSource\Snapshot\" />
   </ItemGroup>
 
 </Project>

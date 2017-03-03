@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using SPG.Model;
+using SPG.Data.Models;
 
 namespace SPG.Data.EF
 {

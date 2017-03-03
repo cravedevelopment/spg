@@ -6713,10 +6713,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\workspace\\spg\\event_store_poc\\SPG\\SPG.EventSourcing\\SPG.EventSourcing.csproj",
+      "projectUniqueName": "D:\\workspace\\github\\spg\\src\\SPG.EventSourcing\\SPG.EventSourcing.csproj",
       "projectName": "SPG.EventSourcing",
-      "projectPath": "D:\\workspace\\spg\\event_store_poc\\SPG\\SPG.EventSourcing\\SPG.EventSourcing.csproj",
-      "outputPath": "D:\\workspace\\spg\\event_store_poc\\SPG\\SPG.EventSourcing\\obj\\",
+      "projectPath": "D:\\workspace\\github\\spg\\src\\SPG.EventSourcing\\SPG.EventSourcing.csproj",
+      "outputPath": "D:\\workspace\\github\\spg\\src\\SPG.EventSourcing\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.0"

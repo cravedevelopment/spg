@@ -1,6 +1,6 @@
 ﻿using SPG.Data.EF;
 
-namespace SPG.Model
+namespace SPG.Data.Models
 {
     public class User : BaseEntity
     {
